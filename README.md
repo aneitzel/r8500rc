@@ -1,6 +1,13 @@
 
+R8500rc - Ultimate ICOM R8500 remote control 
+
 A Python/Tkinter desktop app for remote-controlling the **Icom IC-R8500**
 communications receiver over CI-V (serial).
+
+
+
+
+
 
 
 
@@ -44,21 +51,6 @@ python3 r8500rc.py
 On the radio, set **CI-V Address = 0x4A** and **CI-V Baud Rate = 19200**
 (the factory defaults), then choose your serial port in the app and
 click **Connect**.
-
-See [`installation_guide.md`](installation_guide.md) for full setup
-instructions, including how to install the optional "Digital-7 Mono"
-LCD-style font for the frequency display.
-
-## Notes on Program Scan
-
-Program Scan writes the two edge frequencies into the radio's special
-"PROG" memory bank and starts the scan via CI-V. Changing the start/stop
-frequency, tuning step, mode, or ATT while a scan is running restarts it
-from the lower edge — this is a characteristic of the radio itself.
-
-## License
-
-*(add a license of your choice, e.g. MIT — see [choosealicense.com](https://choosealicense.com/))*
 
 ## Author
 
