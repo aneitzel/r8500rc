@@ -1,13 +1,9 @@
 
-[README.md](https://github.com/user-attachments/files/32303351/README.md)# IC-R8500 Remote Control
-
 A Python/Tkinter desktop app for remote-controlling the **Icom IC-R8500**
 communications receiver over CI-V (serial).
 
-Built through extensive real-hardware CI-V testing and debugging — the
-CI-V protocol details in this app (memory channel format, tuning steps,
-scan behavior, etc.) were verified against an actual IC-R8500, not just
-taken from the manual.
+
+
 
 ## Features
 
@@ -42,7 +38,7 @@ pip3 install pyserial
 ## Usage
 
 ```bash
-python3 icr8500_control.py
+python3 r8500rc.py
 ```
 
 On the radio, set **CI-V Address = 0x4A** and **CI-V Baud Rate = 19200**
