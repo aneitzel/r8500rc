@@ -5,8 +5,6 @@ A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communicat
 
 ![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui1.jpg?raw=true)
 
-Latest Download: https://github.com/aneitzel/r8500rc/releases
-  
 ### Features
 
 - ****Frequency display**** with clickable/scrollable digit steppers, mouse wheel support, and a keypad for direct entry
@@ -26,6 +24,9 @@ Latest Download: https://github.com/aneitzel/r8500rc/releases
 - ****Spectrum Sweep**** with a bar/line graph and click-to-tune
   
 ![Spectrum Sweep](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui2.jpg?raw=true)
+
+
+Latest Download: https://github.com/aneitzel/r8500rc/releases
 
 ### Requirements
 
