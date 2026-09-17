@@ -30,11 +30,11 @@ Latest Download: https://github.com/aneitzel/r8500rc/releases
 
 ### Requirements
 
-- Python 3.9+
+- python 3.9+
 - [`pyserial`](https://pypi.org/project/pyserial/)
-- serial connection or adapter connected to the R8500
+- serial connection to the IC-R8500
 
-You can change the "Frequency Display FONT" in Settings. There is a nice free LCD-like Font available under https://www.dafont.com/digital-7.font. Simply install the Font TTF-file, restart R8500RC and choose "Digital-7 Mono"
+You can change the "Frequency Display FONT" in Settings. There is a nice free LCD-like Font available under https://www.dafont.com/digital-7.font. Simply install the Font TTF-file, restart R8500RC and choose "Digital-7 Mono".
 
 ### Author
 André Neitzel, HB9INA
