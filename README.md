@@ -27,9 +27,9 @@ A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communicat
 
 ### Requirements
 
- - Python 3.9+
+- Python 3.9+
 - [`pyserial`](https://pypi.org/project/pyserial/)
-- A USB-to-CI-V (serial) adapter connected to the R8500
+- serial connection or adapter connected to the R8500
 
 You can change the "Frequency Display FONT" in Settings. There is a nice free LCD-like Font available under https://www.dafont.com/digital-7.font. Simply install the Font TTF-file, restart R8500RC and choose "Digital-7 Mono"
 
