@@ -3,7 +3,7 @@
 
 A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communication receiver over CI-V (serial).
 
-![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui1.jpg?raw=true)
+![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui1.gif?raw=true)
 
 ### Features
 
