@@ -7,6 +7,10 @@ A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communicat
 
 ### Features
 
+- ****Multi Bank Scanning**** enables R8500RC to scan multiple banks including display memory name if signal found
+  
+![Multi Bank Scan](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui4.jpg?raw=true)
+
 - ****Frequency display**** with clickable/scrollable digit steppers, mouse wheel support, and a keypad for direct entry
 
 - ****S-Meter**** Smooth Meter in different styles: Analog, Bar, and Tube with dBm/S-value readout
