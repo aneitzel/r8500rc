@@ -5,6 +5,12 @@ A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communicat
 
 ![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui1.gif?raw=true)
 
+
+MiniMode:
+
+![MiniGUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui5.jpg?raw=true)
+
+
 ### Features:
 
 - ****Multi Bank Scanning**** enables R8500RC to scan multiple banks
