@@ -3,19 +3,19 @@
 
 A Python/Tkinter desktop app for remote-controlling the Icom IC-R8500 communication receiver over CI-V (serial).
 
-![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui1.gif?raw=true)
+![Main GUI](https://github.com/aneitzel/r8500rc/blob/main/docs/R8500rc_gui1.gif?raw=true)
 
 
 MiniMode:
 
-![MiniGUI](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui5.jpg?raw=true)
+![MiniGUI](https://github.com/aneitzel/r8500rc/blob/main/docs/R8500rc_gui5.jpg?raw=true)
 
 
 ### Features:
 
 - ****Multi Bank Scanning**** enables R8500RC to scan multiple banks
 
-![Multi Bank Scan](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui4.jpg?raw=true)
+![Multi Bank Scan](https://github.com/aneitzel/r8500rc/blob/main/docs/R8500rc_gui4.jpg?raw=true)
 
 - ****Frequency Display**** with clickable digit steppers (mouse wheel support and a keypad for direct entry)
 
@@ -29,11 +29,11 @@ MiniMode:
 
 - ****Program Scan**** with a live results table, CSV export, and "most active" sorting
   
-![Program scan](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui3.jpg?raw=true)
+![Program scan](https://github.com/aneitzel/r8500rc/blob/main/docs/R8500rc_gui3.jpg?raw=true)
 
 - ****Spectrum Sweep**** with bar or line graph style and click-to-tune
   
-![Spectrum Sweep](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui2.jpg?raw=true)
+![Spectrum Sweep](https://github.com/aneitzel/r8500rc/blob/main/docs/R8500rc_gui2.jpg?raw=true)
 
 ### Requirements
 
