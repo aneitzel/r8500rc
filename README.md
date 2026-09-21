@@ -35,8 +35,6 @@ MiniMode:
   
 ![Spectrum Sweep](https://github.com/aneitzel/r8500rc/blob/main/R8500rc_gui2.jpg?raw=true)
 
-Latest Download: https://github.com/aneitzel/r8500rc/releases
-
 ### Requirements
 
 - python 3.9+
@@ -44,6 +42,12 @@ Latest Download: https://github.com/aneitzel/r8500rc/releases
 - serial connection to the IC-R8500
 
 You can change the "Frequency Display FONT" in Settings. There is a nice free LCD-like Font available under https://www.dafont.com/digital-7.font. Simply install the Font TTF-file, restart R8500RC and choose "Digital-7 Mono".
+
+
+**** Latest Download: https://github.com/aneitzel/r8500rc/releases ****
+
+r8500rc.py should run under any MAC, PC, Linux, Windows with python and pyserial running. Under releases i also uploaded a binary for INTEL based MAC (x86_64, tested on Sonoma OS). TIP: If your OS/ARCH is different you can also build your own MAC app-package with "py2app"!
+
 
 ### Author
 André Neitzel, HB9INA
